@@ -1,1 +1,1 @@
-# Sudoku
+Sudoku gui visualiser in python

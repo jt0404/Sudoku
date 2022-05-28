@@ -15,6 +15,6 @@
   <li> Put a digit in a square by pressing it on the keyboard </li>
   <li> Submit your digit by pressing enter </li>
   <li> If you can't solve sudoku run solver by pressing space </li>
-  <li> If you need more grids then use fetch_sudoku.py to get more grids </li>
+  <li> If you need more grids run fetch_sudoku.py script </li>
   <li> Grids are stored in sudoku.txt </li>  
 </ol>
